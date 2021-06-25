@@ -1,6 +1,6 @@
-# Form validation (Yup)
+# Form validation (Fastest-validator)
 ## General info
-A SSR weblog with login and register forms validation with Yup
+A SSR weblog with login and register forms validation with Fastest-validator
 
 ## Technologies
  Project is created with:
